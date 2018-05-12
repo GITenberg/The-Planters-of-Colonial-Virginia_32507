@@ -1,0 +1,32 @@
+_repo: The-Planters-of-Colonial-Virginia_32507
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wertenbaker, Thomas Jefferson
+    alias: Wertenbaker, Thomas J.
+    birthdate: 1879
+    deathdate: 1966
+    gutenberg_agent_id: '33073'
+    url: http://www.gutenberg.org/2009/agents/33073
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_J._Wertenbaker
+description: Explains how the importation of slave labor transformed the colony of
+  Virginia from largely a society of yeoman farmers to a planter aristocracy.
+gutenberg_issued: '2010-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32507'
+  lccn: '59011228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775'
+- !lcsh 'Slavery -- Virginia'
+- !lcsh 'Virginia -- Economic conditions'
+title: The Planters of Colonial Virginia
+url: http://www.gutenberg.org/ebooks/32507
